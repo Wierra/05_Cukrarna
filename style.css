@@ -142,7 +142,7 @@ ul li a:hover{
 }
 
 .levy{
-	padding: 0 30px;
+	padding: 0 30px 0 0;
 }
 
 .pravy img{
@@ -182,7 +182,6 @@ ul li a:hover{
 	border-radius: 5px;
 	background-color: white;
 }
-
 
 .text h3{
 	text-align: center;
